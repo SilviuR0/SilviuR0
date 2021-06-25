@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SilviuR0
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning javascript and html/css.
